@@ -27,5 +27,5 @@ function addScore() {
     }
 }
 
-setInterval(makeFrown, 500);
+setInterval(makeFrown, 1000);
 
